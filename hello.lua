@@ -1,4 +1,4 @@
-print 'Привет, Lua!'
---print("Привет, Lua!") -- комментарий
---[[ многострочный
-комментарий]]
+print 'Hello, World!'
+--print("Hello, World!") -- comment
+--[[ multiline
+comment]]
