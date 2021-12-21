@@ -12,4 +12,3 @@ main:
     addl $4, %esp
     xorl %eax, %eax
     ret
-    
