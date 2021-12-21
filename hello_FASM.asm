@@ -15,4 +15,3 @@ main:
     add esp, 8
     xor eax, eax
     ret
-    
