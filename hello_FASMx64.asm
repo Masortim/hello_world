@@ -16,4 +16,3 @@ main:
     mov rsp, rbp
     xor rax, rax
     ret
-    
