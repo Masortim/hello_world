@@ -14,4 +14,3 @@ main:
     movq %rbp, %rsp
     xorq %rax, %rax
     ret
-    
